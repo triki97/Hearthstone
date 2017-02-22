@@ -1,0 +1,4 @@
+/Users/Alexander/Dropbox/USC/CS 201/201stone/201StoneFrontEnd/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/Alexander/Dropbox/USC/CS 201/201stone/201StoneFrontEnd/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/Alexander/Dropbox/USC/CS 201/201stone/201StoneFrontEnd/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/Alexander/Dropbox/USC/CS 201/201stone/201StoneFrontEnd/obj/Debug/Assembly-CSharp-firstpass.dll.mdb

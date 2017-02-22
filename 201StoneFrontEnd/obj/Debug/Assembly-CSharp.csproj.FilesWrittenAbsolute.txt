@@ -1,0 +1,21 @@
+/Users/mabook/New Unity Project 1/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/mabook/New Unity Project 1/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/mabook/New Unity Project 1/obj/Debug/Assembly-CSharp.dll
+/Users/mabook/New Unity Project 1/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/mabook/New Unity Project 1/Temp/bin/Debug/UnityEngine.dll
+/Users/mabook/New Unity Project 1/Temp/bin/Debug/UnityEditor.dll
+/Users/mabook/New Unity Project 1/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/mabook/New Unity Project 1/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/mabook/New Unity Project 1/Temp/bin/Debug/Mono.Cecil.dll
+/Users/mabook/New Unity Project 1/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/mabook/New Unity Project 1/Temp/bin/Debug/Unity.DataContract.dll
+/Users/mabook/New Unity Project 1/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/mabook/New Unity Project 1/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/mabook/New Unity Project 1/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/mabook/New Unity Project 1/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/mabook/New Unity Project 1/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/mabook/New Unity Project 1/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Alexander/Dropbox/USC/CS 201/201stone/201StoneFrontEnd/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Alexander/Dropbox/USC/CS 201/201stone/201StoneFrontEnd/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Alexander/Dropbox/USC/CS 201/201stone/201StoneFrontEnd/obj/Debug/Assembly-CSharp.dll
+/Users/Alexander/Dropbox/USC/CS 201/201stone/201StoneFrontEnd/obj/Debug/Assembly-CSharp.dll.mdb

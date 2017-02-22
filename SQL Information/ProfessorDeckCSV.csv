@@ -1,0 +1,21 @@
+CardName,ManaCost,Effect,Attack,Defense,Quantity,CardId
+"CS 201 Midterm",1,"<i>If these existed this is what they'd look like</i>",2,2,2,18
+"Programming Assignment",3,"<b>Battecry:</b> Deal 2 damage to all enemy minions.",2,2,2,19
+"Publish a Paper",2,"Gain an empty mana crystal",-1,-1,2,20
+"Sad Github Avatar ",4,"<i>Some say it's a bit phalic.</i>",8,1,1,21
+"Catch Colluding Students ",8,"Destroy all enemy minions.",-1,-1,1,22
+"New Chalk",2,"Restore 5 health to your hero.",-1,-1,2,23
+"Pop Quiz ",5,"<b>Battlecry:</b> Draw a card.",5,5,2,24
+"Aaron Cote",7,"<b>Battlecry:</b> Restore your hero to full health.",4,5,1,25
+"Show Off the PhD",4,"Deal 3 damage to all characters",-1,-1,2,26
+"Michael Shindler",7,"<b>Battlecry:</b> Give <b>Aaron Cote</b> +5/+5.",5,5,1,27
+"Mark Redekopp",5,"<b>Battlecry:</b> Copy 2 cards from your opponents deck and put it in your hand.",4,3,1,28
+"Major Breakthrough",3,"Draw 2 cards.",-1,-1,2,29
+"Leonard Adleman",3,"<b>Battlecry:</b> Encode <b>(Switch)</b> your deck with your opponent's deck.",3,4,1,30
+"Jeffrey Miller PhD ",10,"<b>Battlecry:</b> Destroy ALL minions, and set both you and the enemy hero's health to 1.",1,1,1,31
+"Nice Suit",4,"Restore all friendly minions to full health",-1,-1,2,32
+"Advise in Industry",9,"Restore characters to full health.",-1,-1,1,33
+"PhD Student",3,"<i>Maybe one day they'll be a Professor.</i>",3,5,2,34
+"5 Minute Break",3,"Discard your hand. Gain 10 mana crystals.",-1,-1,1,35
+"Saty Raghavachary",2,"<b>Battlecry:</b> Summon a 1/1 Virus with <b>Charge</b>.",2,2,1,36
+"The Final ",6,"<i>Why are there two.....</i>",6,7,2,37
